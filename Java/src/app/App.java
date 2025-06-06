@@ -34,6 +34,8 @@ public class App { // public define que nossa classe pode ser acessada por qualq
         lista.add("your is incorrect, I am the true");
         System.out.println(lista); // Printando toda a arraylist
         System.out.println(lista.get(0)); // Pritando uma parte especifica
+    
+        // Hashmap
 
     }
 }
